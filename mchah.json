@@ -1,1 +1,314 @@
-ddddddddddddddddd
+{
+   "AdsManager":{
+      "adNetwork" :"admob",
+      "interstitial_admob":"ca-app-pub-3940256099942544/1033173712",
+      "banner_admob":"ca-app-pub-3940256099942544/6300978111",
+      "native_admob":"ca-app-pub-3940256099942544/2247696110",
+
+      "interstitial_fan":"IMG_16_9_APP_INSTALL#465986095404427_474869491182754",
+      "banner_fan":"IMG_16_9_APP_INSTALL#465986095404427_474834121186291",
+      "native_fan":"IMG_16_9_APP_INSTALL#465986095404427_474850511184652"
+   },
+   "Songs" :[
+      {
+         "song_name":"01. ya majmaa laareb",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93593/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"02. ahkam lahoum bel khiyane",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93613/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+      {
+         "song_name":"03. aji netsamhou",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93614/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"04. Ajy Mktwb",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99557/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"05. Al-alm Al-tryhh",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99556/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"Al-hslh 1",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99552/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"07. alah alah ala chouyoukh",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93617/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"08. anydh",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99551/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"09. az alik ghir houwa",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93600/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"10. Azhyrw Al-khaynh",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99553/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"11. bghit bladi",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93616/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"12. Bladi",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99532/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"13. Daba Tshwf",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99549/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"14. Daouini",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99533/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"15. dawini",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93615/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"16. Eddenya",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99534/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"17. El ghadi b3id",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99535/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"18. el khiyala",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93599/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"19. el zmane",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93610/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"20. elil",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93604/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"21. Elouedd",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99536/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"22. Ettaleb",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99537/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"23. Flstyn Hfl",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99554/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"24. Gharo menna",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99538/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"25. hayrane",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93609/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"26. instrumental",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93595/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"27. jawal fi bladat el nass",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93607/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"28. khali",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93596/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"29. khaliou",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93620/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"30. Khayi",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99539/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"31. khlil",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99540/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"32. lebhar",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93594/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"33. Lekbila",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99541/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"34. malou malou",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93621/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"35. mdinet el salem",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93619/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"36. medahi",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93606/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"37. mersal",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93597/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"38. Moulana",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99542/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"39. nahki ma jra",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93611/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"40. nari",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93608/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"41. Nsour",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99543/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"42. Qabyl Whabyl",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99555/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"43. rani mada darit ana",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93618/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"44. Rsami",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99544/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"45. samitha",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93622/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"46. shr",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99550/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"47. T'ala Yawa Ankwlyk",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99548/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"48. Ya ajaba",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99546/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"49. Ya Lateef",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/99547/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      },
+        {
+         "song_name":"50. yahli",
+         "artist":"Lemchaheb",
+         "song_link":"https://arab-zik.com/stream/93605/zR27hRbkZeHT60IMkypiCex3lvLNTVyvUYLDorar",
+         "image":"https://od.lk/s/NzJfNDQwNDI0MDZf/Abdelaziz%20Ahouzar%202.png"
+      }
+   ]
+}
